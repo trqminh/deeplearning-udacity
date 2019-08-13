@@ -5,7 +5,7 @@ Things below is how I understand about word2vec model (skip-gram and cbow), so f
 ### Model
 ![](https://github.com/1612374/deeplearning-udacity/blob/master/assign5/skipgram.jpg)
 
-Softmax regression, not logistic regression with softmax :(((
+Softmax regression, not logistic regression with softmax
 
 
 ### Input and labels
